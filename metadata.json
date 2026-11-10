@@ -1,0 +1,6 @@
+{
+  "name": "SMARTPOS — Multi-Tenant Mobile POS & Inventory SaaS",
+  "description": "Commercial multi-tenant Mobile Point of Sale and Inventory SaaS platform with offline-first PWA sync, multi-currency (PHP/USD) decimal accounting, auditable stock ledger, and downloadable Laravel 13 production package.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
